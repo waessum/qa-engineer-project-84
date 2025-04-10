@@ -74,15 +74,15 @@
 - summary: |
     Проверка корректности смены языка
   status: fail
-
+  
 - summary: |
     Попарное тестирование фильтров
-  status: pass 
-
+  status: pass
+  
 - summary: |
     Проверка сохранения товаров в корзине после перезагрузки страницы
-  status: pass 
-
- - summary: |
+  status: pass
+  
+- summary: |
     Проверка отображения сообщения при поиске несуществующего товара
-  status: pass  
+  status: pass
