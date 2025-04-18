@@ -5,8 +5,8 @@
     Google Chrome	134.0.6998.178 (Официальная сборка) (64 бит) (cohort: Stable) 
     Windows 10
   steps-to-reproduce: |
-    1. Открыта страница "Магазин" - https://hexlet-products-store.vercel.app/ 
-    2. Выбрано "furniture" в категориях
+    1. Открыть страницу "Магазин" - https://hexlet-products-store.vercel.app/ 
+    2. Выбрать "furniture" в категориях
   expected-result: |
     Есть возможность сбросить категорию и вернуться ко всем товарам
   actual-result: |
