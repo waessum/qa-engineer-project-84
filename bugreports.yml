@@ -26,8 +26,8 @@
     Сайт дает возможность вбивать отрицательное число
 
 - summary: |
-    Некорректное отображение интерфейса на мобильных устройствах
-    Мзображение: https://4.downloader.disk.yandex.ru/preview/b12bf0611f0a945f1410b524c66aa94671f092fc375701726f84a9cdbcf9e90a/inf/qhQYcKt3rJawX7hiah1v3_fOTQz-XFCpbk2-lF66vtpMZ5vCea1NJPhkiJwvZAS85AIP4dAumArDYKHdAU1CiA%3D%3D?uid=228320101&filename=5555555.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=228320101&tknv=v2&size=1920x998
+    Некорректное отображение интерфейса на мобильных устройства
+    Изображение: https://github.com/waessum/qa-engineer-project-84/commit/5702bdfb541406567c48c0db01d3bfa879297f98#diff-7ab4881d8e2ba8faa393fa168ae33a9cb632018704a30927178f9c3e5de0f08c
   environment: |
     Google Chrome	134.0.6998.178 (Официальная сборка) (64 бит) (cohort: Stable) 
     Эмуляция: iPhone XR (414×896) в DevTools
@@ -47,8 +47,7 @@
 
 - summary: |
     Не загружается иконка флага рядом с пунктом "English" в выпадающем меню выбора языка
-    Изображение: https://2.downloader.disk.yandex.ru/preview/8efda80cccf5689829b98cf0828137c282a3d7dbf1442f65b5d509447207b50c/inf/MkPZPnMTvafNbM6PCVUq4xVpcSNCWggnhszoTYsv8Hfjg5IcHHGrcAeSpMGcIWXlj7mnTPZQf2erS_gULdUpMg%3D%3D?uid=228320101&filename=photo_2025-04-18_19-43-49.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=228320101&tknv=v2&size=1920x998
-  environment: |
+    Изображение: https://github.com/waessum/qa-engineer-project-84/commit/5702bdfb541406567c48c0db01d3bfa879297f98#diff-106d9b61173ca69622e107da2835a9d6ed884b039928b0902c5d7ed82ad3067e
     Google Chrome 123.0.6312.106
     ОС: Windows 10
   steps-to-reproduce: |
