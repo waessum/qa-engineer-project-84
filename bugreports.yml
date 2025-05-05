@@ -48,6 +48,7 @@
 - summary: |
     Не загружается иконка флага рядом с пунктом "English" в выпадающем меню выбора языка
     Изображение: https://github.com/waessum/qa-engineer-project-84/commit/5702bdfb541406567c48c0db01d3bfa879297f98#diff-106d9b61173ca69622e107da2835a9d6ed884b039928b0902c5d7ed82ad3067e
+  environment: |
     Google Chrome 123.0.6312.106
     ОС: Windows 10
   steps-to-reproduce: |
